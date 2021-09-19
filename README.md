@@ -11,6 +11,7 @@
 
 # 状态
  - Type-C USB2.3 Gen2x2 没测 
- - Wi-Fi 蓝牙 (用不上 没放驱动)
+ - AppleALC改过 Controller.Plist (TigerLake PCH cAVs 43c8 ID Patch -> IOServceStartPatch)建议别更新 后期维护会跟进～
+ - Wi-Fi 蓝牙 (没放驱动)
  - 其他问题欢迎反馈
  - SMBIOS MacPro 7,1
