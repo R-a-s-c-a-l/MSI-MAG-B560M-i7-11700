@@ -7,7 +7,7 @@
 | GPU        | AMD Radeon RX 570.                                        |
 | Network    | Realtek PCIe 2.5Gb Ethernet (RTL8125)                     |                                                                           
 | Disk       | SN750                                                     |
-| Bootloader | OpenCore 0.7.3 Release                                    |
+| Bootloader | OpenCore 0.7.5 Release                                    |
 
 # 状态
  - Type-C USB2.3 Gen2x2 没测 
