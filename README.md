@@ -18,3 +18,10 @@
  - 其他问题欢迎反馈
  # AppleALC
  - 针对 B560 有输出设备播放音视频进度条不动的修改版 AppleALC主要针对device-id 43C8 和 F0C8 实时跟进版本(使用时有问题欢迎反馈😛)
+## 鸣谢
+- [Mieze](https://github.com/Mieze) 提供 [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet).
+- [VoodooI2C](https://github.com/VoodooI2C) 提供 [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C).
+- [1Revenger1](https://github.com/1Revenger1) 提供 [ECEnabler](https://github.com/1Revenger1/ECEnabler).
+- [Acidanthera](https://github.com/acidanthera) 提供 [AppleALC](https://github.com/acidanthera/AppleALC), [RestrictEvents](https://github.com/acidanthera/RestrictEvents), [Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooInput](https://github.com/acidanthera/VoodooInput) ,[WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+- [OpenIntelWireless](https://github.com/OpenIntelWireless) 提供 [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware).
+
