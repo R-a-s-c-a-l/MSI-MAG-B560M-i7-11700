@@ -19,8 +19,10 @@
  # AppleALC
  - 针对 B560 有输出设备播放音视频进度条不动的修改版 AppleALC主要针对device-id 43C8 和 F0C8 (使用时有问题欢迎反馈😛)
  - 方法 2 无需使用Modified AppleALC 或者 FakePCIID 可尝试 注入 `device-id D07A0000 并搭配原版AppleALC Release 1.6.7或更高版本` 同时IceLake-LP 或者 Z490 H470 W480 Q470 等平台如果出现核显的核显数字音频(DP HDMI)无法使用也可尝试此方法 推荐！(如果无效请开 issues 报告实际情况)
+ - 如果以上两种方式均无效那你还是用`FakePCIID.kext`吧我这里提供了一个基于最新macOS SDK编译的FakePCIID (需要大量测试，分享前在我的电脑上用了用了三天并没发生IOPCIFamily崩溃的问题，该kext只支持在macOS Monterey使用，测试版本 macOS 12.1)
 
 ## 鸣谢
 - [Mieze](https://github.com/Mieze) 提供 [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet).
 - [Acidanthera](https://github.com/acidanthera) 提供 [AppleALC](https://github.com/acidanthera/AppleALC), [RestrictEvents](https://github.com/acidanthera/RestrictEvents), [Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC) ,[WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+- [RehabMan](https://github.com/RehabMan) 提供 [FakePCIID SourceCode](https://github.com/RehabMan/OS-X-Fake-PCI-ID).
 
